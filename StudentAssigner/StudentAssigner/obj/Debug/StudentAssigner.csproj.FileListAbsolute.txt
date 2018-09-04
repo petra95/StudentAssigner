@@ -1,0 +1,9 @@
+C:\Users\antal\StudentAssigner\StudentAssigner\StudentAssigner\bin\Debug\StudentAssigner.exe.config
+C:\Users\antal\StudentAssigner\StudentAssigner\StudentAssigner\bin\Debug\StudentAssigner.exe
+C:\Users\antal\StudentAssigner\StudentAssigner\StudentAssigner\bin\Debug\StudentAssigner.pdb
+C:\Users\antal\StudentAssigner\StudentAssigner\StudentAssigner\obj\Debug\StudentAssigner.csprojResolveAssemblyReference.cache
+C:\Users\antal\StudentAssigner\StudentAssigner\StudentAssigner\obj\Debug\StudentAssigner.Properties.Resources.resources
+C:\Users\antal\StudentAssigner\StudentAssigner\StudentAssigner\obj\Debug\StudentAssigner.csproj.GenerateResource.Cache
+C:\Users\antal\StudentAssigner\StudentAssigner\StudentAssigner\obj\Debug\StudentAssigner.csproj.CoreCompileInputs.cache
+C:\Users\antal\StudentAssigner\StudentAssigner\StudentAssigner\obj\Debug\StudentAssigner.exe
+C:\Users\antal\StudentAssigner\StudentAssigner\StudentAssigner\obj\Debug\StudentAssigner.pdb
